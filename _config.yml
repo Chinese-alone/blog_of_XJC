@@ -1,0 +1,7 @@
+# Site settings
+title: Blog of XJC
+description: 这好像是一个博客
+keywords: Modern, Blogging, Look for sometings to do
+author: XJC
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "blog.xujuncheng.cn" # the base hostname & protocol for your site
