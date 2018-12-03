@@ -1,6 +1,6 @@
 ---
-title:  "博文？"
-subtitle: "来个介绍"
+title:  "blog"
+subtitle: "For a test"
 author: "XJC"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
